@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Ignyia
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Trying to keep track of things? Well let me see what I have here in my notes...
+
+[[Setting]]
+[[Council Members]]
+[[Battle Reports]]
+[[Side Characters]]
+
